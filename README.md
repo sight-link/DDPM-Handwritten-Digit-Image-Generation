@@ -2,6 +2,8 @@
 Lightweight Denoising Diffusion Probabilistic Model for MNIST Handwritten Digit Generation
 Support Kaggle Notebook & Local PC training, auto GPU/CPU device adapt.
 
+Kaggle Notebook: https://www.kaggle.com/code/jenniferxfl/ddpm-handwritten-digit-image-generation
+
 ## Project Feature
 1. Sinusoidal timestep embedding + Lightweight UNet backbone
 2. Standard DDPM forward diffusion & reverse sampling
