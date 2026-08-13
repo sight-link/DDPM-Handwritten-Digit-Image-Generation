@@ -31,7 +31,9 @@ python train.py
 outputs/loss_convergence.png: Training loss curve
 outputs/synthesized_samples.png: 16 generated MNIST digits grid
 
-
-
+**DDPM Training Loss Convergence Curve (MNIST)**
+![Static Preview of DDPM](./paper_outputs/loss_convergence.png)
+**DDPM Synthesized Sample Matrix (MNIST)**
+![Static Preview of DDPM](./paper_outputs/synthesized_samples.png)
 
 
