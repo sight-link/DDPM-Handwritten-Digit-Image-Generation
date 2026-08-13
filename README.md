@@ -12,8 +12,7 @@ Support Kaggle Notebook & Local PC training, auto GPU/CPU device adapt.
 ### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
-
-
+```
 
 ### 2. Dataset Prepare
 #### Local Environment
@@ -26,6 +25,7 @@ Add dataset oddrationale/mnist-in-csv, default path is ready to use.
 ### 3. Run Train
 ```bash
 python train.py
+```
 
 #### Output Result
 outputs/loss_convergence.png: Training loss curve
