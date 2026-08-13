@@ -13,6 +13,8 @@ Support Kaggle Notebook & Local PC training, auto GPU/CPU device adapt.
 ```bash
 pip install -r requirements.txt
 
+
+
 ### 2. Dataset Prepare
 #### Local Environment
 Download mnist_train.csv from Kaggle: https://www.kaggle.com/oddrationale/mnist-in-csv
