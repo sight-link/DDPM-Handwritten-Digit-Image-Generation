@@ -9,6 +9,10 @@ Support Kaggle Notebook & Local PC training, auto GPU/CPU device adapt.
 4. Auto plot loss convergence curve & 4x4 generated sample grid
 5. Complete error check: file exist verify, device auto detect
 
+### 1. Install Dependencies
+```bash
+pip install -r requirements.txt
+
 ### 2. Dataset Prepare
 #### Local Environment
 Download mnist_train.csv from Kaggle: https://www.kaggle.com/oddrationale/mnist-in-csv
@@ -26,8 +30,6 @@ outputs/loss_convergence.png: Training loss curve
 outputs/synthesized_samples.png: 16 generated MNIST digits grid
 
 ## Quick Start
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
+
 
 
